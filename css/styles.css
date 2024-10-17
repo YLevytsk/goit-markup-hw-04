@@ -203,7 +203,17 @@ color: #ffffff;
     margin-left: auto;
     background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
 }
-
+.icon-bg {
+    display: flex;
+    background-color: #F4F4FD;
+    width: 264px;
+    height: 112px;
+    border: #8E8F99 solid 1px;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8px;
+}
 .section_first .container {
     display: flex;
     flex-direction: column; 
