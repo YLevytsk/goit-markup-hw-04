@@ -323,7 +323,8 @@ color: #ffffff;
 .net_icon {
     fill: #f4f4fd;
 }
-.soc_nets_linl:hover,.soc_nets_linl:focus {
+.soc_nets_linl:hover,
+.soc_nets_linl:focus {
  background-color: #404bbf;   
 } 
 .skills-list-item { 
