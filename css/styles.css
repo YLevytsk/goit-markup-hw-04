@@ -301,7 +301,7 @@ color: #ffffff;
     justify-content: center;
     flex-direction: row;
     gap: 24px;
-    transition: background-color 250mc cubic-bezier(0.4, 0, 0.2, 1);
+    transition: background-color 250mc (0.4, 0, 0.2, 1);
     margin-top: 8px;
     padding-left: 0;
 }
@@ -319,6 +319,9 @@ color: #ffffff;
     background-color: #4d5ae5;
     border-radius: 50%;
 
+}
+.social-icons {
+    fill: #f4f4fd;
 }
 .soc_nets_linl:hover {
  background-color: #404bbf;   
