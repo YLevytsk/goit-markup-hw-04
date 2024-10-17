@@ -57,6 +57,10 @@ img {
 .menu:focus { 
     color: #404bbf;
 }
+.first-item .navi-link-menu:hover {
+  text-decoration: underline;
+}
+
 .menu::after {
     content: "";
     position: absolute;
