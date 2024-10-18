@@ -51,13 +51,9 @@ img {
     justify-content: space-between;
 }
 
-.first-item .navi-link-menu:hover {
-  text-decoration: underline;
-}
 .current .navi-link-menu {
   text-decoration: underline;
 }
-
 .navi-link-menu:hover {
   text-decoration: underline;
 }
