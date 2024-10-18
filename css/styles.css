@@ -523,11 +523,11 @@ border-radius: 0px 0px 4px 4px;
 
 
 /* Устанавливаем относительное позиционирование для контейнера */
-.image_container {
-    position: relative;
+.image-container {
     width: 100%; /* Можно задать необходимую ширину, например 100% от родительского элемента */
     height: auto;
     overflow: hidden;
+    position: relative;
 }
 .portfolio-slide-text {
     position: absolute; 
