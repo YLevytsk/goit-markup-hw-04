@@ -130,6 +130,18 @@ ul {
     padding: 0;
     margin: 0;
     gap: 40px;
+
+}
+/* Плавный переход для ссылки в первом пункте списка контактов */
+.contacts-list .contact-list-item:first-child .contact-link {
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1); /* Плавный переход для изменения цвета */
+    color: #434455; /* Цвет текста по умолчанию */
+}
+
+/* Изменение цвета при наведении на ссылку */
+.contacts-list .contact-list-item:first-child .contact-link:hover,
+.contacts-list .contact-list-item:first-child .contact-link:focus {
+    color: #404bbf; /* Цвет при наведении */
 }
 
 
