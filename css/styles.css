@@ -162,7 +162,7 @@ ul {
 .nav-list a {
 text-decoration: none;    
 }
-.navi-link-menu current {
+.navi-link-menu.current {
     color: #404bbf;
     color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     color 250ms cubic-bezier(0.4, 0, 0.2, 1);
