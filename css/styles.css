@@ -48,9 +48,8 @@ img {
     display: flex;
     list-style: none;
     gap: 40px;
-     justify-content: space-between;
+    justify-content: space-between;
 }
-
 
 .first-item .navi-link-menu:hover {
   text-decoration: underline;
