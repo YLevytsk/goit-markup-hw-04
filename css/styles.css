@@ -522,6 +522,12 @@ border-radius: 0px 0px 4px 4px;
 .our-portfolio-list .portfolio-item:hover .portfolio-text p {
     transform: translateY(0%);
 }
+/* Устанавливаем относительное позиционирование для контейнера */
+.image_container {
+    position: relative;
+    width: 100%; /* Можно задать необходимую ширину, например 100% от родительского элемента */
+    height: auto;
+}
 
 footer {
     background-color: #2E2F42;
