@@ -172,6 +172,7 @@ text-decoration: none;
     padding: 24px 0;
     display: block;
     position: relative;
+    color: #404bbf;
 }
 .navi-link-menu:hover,
 .navi-link-menu:focus  { 
