@@ -60,6 +60,15 @@ img {
 .first-item .navi-link-menu:hover {
   text-decoration: underline;
 }
+/* Для активного пункту */
+.current .navi-link-menu {
+  text-decoration: underline;
+}
+
+/* Для ховера */
+.navi-link-menu:hover {
+  text-decoration: underline;
+}
 
 .menu::after {
     content: "";
