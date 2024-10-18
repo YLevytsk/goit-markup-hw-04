@@ -69,8 +69,6 @@ img {
 .navi-link-menu:hover {
   text-decoration: underline;
 }
-
-
 .nav-list .current::after {
     content: "";
     position: absolute;
