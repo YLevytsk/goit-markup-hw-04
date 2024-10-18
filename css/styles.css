@@ -527,8 +527,11 @@ border-radius: 0px 0px 4px 4px;
     position: relative;
     width: 100%; /* Можно задать необходимую ширину, например 100% от родительского элемента */
     height: auto;
+    overflow: hidden;
 }
-
+.portfolio-slide-text {
+    
+}
 footer {
     background-color: #2E2F42;
     color: #F4F4FD;
