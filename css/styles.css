@@ -47,7 +47,8 @@ img {
 .nav-list {
     display: flex;
     list-style: none;
-    gap: 40px; 
+    gap: 40px;
+     justify-content: space-between;
 }
 .menu-one {
     color: #404bbf;
