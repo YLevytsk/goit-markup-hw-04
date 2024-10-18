@@ -79,6 +79,7 @@ img {
     height: 4px;
     border-radius: 2px; 
     background-color: #404bbf;
+    justify-content: space-between;
 }
 /* Підкреслення при ховері */
 .navi-link-menu:hover,
