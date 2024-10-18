@@ -556,11 +556,29 @@ footer {
     align-items: baseline;
 }
 .footer-text {
+    width: 264px;
+    font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    max-width: 264px;
+    color: #f4f4fd
     margin-top: 16px;
 }
-
+.footer-media-text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    margin-bottom: 16px;
+    display: inline-block;
+}
 footer .logo_studio {
     color: #F4F4FD;
 }
@@ -568,6 +586,7 @@ footer .logo_studio {
 footer .logo_web {
     color: #4d5ae5;
     margin-bottom: 16px;
+    
 
 }
 .logo_web, 
