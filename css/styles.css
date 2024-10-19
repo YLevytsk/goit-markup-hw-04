@@ -556,6 +556,9 @@ footer {
     display: flex;
     align-items: baseline;
 }
+social-media {
+    font-weight: 500;
+}
 .footer-text {
     width: 264px;
     font-size: 16px;
