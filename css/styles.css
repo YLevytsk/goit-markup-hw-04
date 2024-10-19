@@ -591,6 +591,7 @@ footer {
     color: #4d5ae5;
     margin-bottom: 16px;
     display: inline-block;
+     text-decoration: none; 
 }
 footer .logo_studio {
     color: #F4F4FD;
