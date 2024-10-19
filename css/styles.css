@@ -545,7 +545,7 @@ border-radius: 0px 0px 4px 4px;
 }
 .container-footer {
     display: flex;
-    flex-direction: column; /* Элементы располагаются вертикально */
+    flex-direction: flex; /* Элементы располагаются вертикально */
     align-items: baseline;
      margin-right: 120px;/* Выравнивание по базовой линии текста */
 }
