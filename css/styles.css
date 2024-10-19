@@ -546,7 +546,8 @@ border-radius: 0px 0px 4px 4px;
 .container-footer {
     display: flex;
     flex-direction: column; /* Элементы располагаются вертикально */
-    align-items: baseline; /* Выравнивание по базовой линии текста */
+    align-items: baseline;
+     margin-right: 120px;/* Выравнивание по базовой линии текста */
 }
 footer {
     background-color: #2E2F42;
@@ -581,7 +582,9 @@ footer {
 footer .logo_studio {
     color: #F4F4FD;
 }
-
+.social-media {
+    font-weight: 500; /* Определение жирности шрифта */
+}
 footer .logo_web {
     color: #4d5ae5;
     margin-bottom: 16px;
