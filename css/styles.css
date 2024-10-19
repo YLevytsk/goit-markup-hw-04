@@ -613,3 +613,10 @@ footer .logo_web {
 span { 
     color: #f4f4fd;
 }
+.container-footer .soc_nets_link:hover,
+.container-footer .soc_nets_link:focus { 
+ background-color: #31d0aa;
+}
+
+
+
