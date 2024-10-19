@@ -558,6 +558,11 @@ footer {
 }
 .social-media {
     font-weight: 500;
+
+}
+.social-futer {
+    display: flex; 
+    gap: 16px;
 }
 .footer-text {
     width: 264px;
